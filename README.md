@@ -1,4 +1,8 @@
-# Привет, меня зовут Никита!
+<div id="header" align="center">
+
+<img src="https://giphy.com/gifs/WemtkIRyd2JMciY3Zh" width="100"/>
+
+</div>
 
 ---
 
